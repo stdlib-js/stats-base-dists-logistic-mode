@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-19)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -34,7 +34,7 @@ This release closes the following issue:
 
 <details>
 
--   [`7cff91f`](https://github.com/stdlib-js/stdlib/commit/7cff91f740c92525f6fe5fd1bbd9101babff3298) - **feat:** add C implementation for `stats/base/dists/logistic/mode` [(#4029)](https://github.com/stdlib-js/stdlib/pull/4029) _(by JoyBoy)_
+-   [`7cff91f`](https://github.com/stdlib-js/stdlib/commit/7cff91f740c92525f6fe5fd1bbd9101babff3298) - **feat:** add C implementation for `stats/base/dists/logistic/mode` [(#4029)](https://github.com/stdlib-js/stdlib/pull/4029) _(by Prashant Kumar Yadav)_
 
 </details>
 
@@ -48,7 +48,7 @@ This release closes the following issue:
 
 A total of 1 person contributed to this release. Thank you to this contributor:
 
--   JoyBoy
+-   Prashant Kumar Yadav
 
 </section>
 

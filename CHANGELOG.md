@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-23)
+## Unreleased (2026-02-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b7879ad`](https://github.com/stdlib-js/stdlib/commit/b7879adce2d3bf7a6a1d4e626fd60172b3e33155) - **docs:** fix missing and malformed section closing tags in README files _(by Philipp Burckhardt)_
 -   [`ac2de21`](https://github.com/stdlib-js/stdlib/commit/ac2de219ef2fb87ceb61360e6c267c5ab1e3cdbb) - **style:** replace erroneous tab character with space _(by Philipp Burckhardt)_
 -   [`bf1ee75`](https://github.com/stdlib-js/stdlib/commit/bf1ee75f724235ffc70d27d16a58d18c7e4e0d56) - **bench:** refactor to use string interpolation in `stats/base/dists/logistic` [(#10105)](https://github.com/stdlib-js/stdlib/pull/10105) _(by Shubham)_
 
